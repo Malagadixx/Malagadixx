@@ -11,9 +11,9 @@
  🔭 Atualmente focado em desenvolvimento **Front-End Web** com:
  <br/>• **Next.js**, **JavaScript**, **React** e **TypeScript**
 
- 🌱 Buscando dominar o ciclo completo: front-end moderno.  
+ 🌱 Buscando dominar o ciclo completo: Front-End moderno.  
  
- 🎯 Estudante de Análise e Desenvolvimento de Sistemas Web com foco em construir projetos reais e performáticos.
+ 🎯 Estudante de Análise e Desenvolvimento de Sistemas com foco em construir projetos reais e performáticos.
 
 </div>
 
