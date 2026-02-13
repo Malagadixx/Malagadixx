@@ -13,7 +13,7 @@
 
  🌱 Buscando dominar o ciclo completo: Front-End moderno.  
  
- 🎯 Estudante de Análise e Desenvolvimento de Sistemas com foco em construir projetos reais e performáticos.
+ 🎯 Formado em Análise e Desenvolvimento de Sistemas com foco em construir projetos reais e performáticos.
 
 </div>
 
